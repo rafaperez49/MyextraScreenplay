@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Trabajar con MyExtra" skipped="0" tests="1" time="34.12" timestamp="2018-10-04T15:29:35.521-05:00[America/Bogota]"><testcase name="Ingresar a MyExtra"><failure message="&#10;Expected: &quot;Introducir sentencias SQL&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: "Introducir sentencias SQL"
+     but: was null</failure><system-err>
+Expected: "Introducir sentencias SQL"
+     but: was null&#13;
+co.proyectobase.myextra.stepdefinitions.serenity.MyExtraStepDefinition.elVerificaQueInicioSesiónCorrectamente(MyExtraStepDefinition.java:52)&#13;
+✽.el verifica que inicio sesión correctamente(src/test/resources/features/acceder_myextra.feature:17)&#13;
+</system-err></testcase></testsuite>
